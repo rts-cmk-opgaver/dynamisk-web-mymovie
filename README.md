@@ -22,7 +22,7 @@ Der skal implementeres darkmode. Switch-knappen i øverste højre hjørne skal s
 Du afleverer ved at lave et **pull-request** hvor du sætter din lærer på som *reviewer*. Vent med at lave et pull-request, til du er færdig med opgaven. 
 
 ### **Deadline**: 
-Opgaven skal afleveres **senest torsdag den 22. september 2022.** 
+Opgaven skal afleveres **senest torsdag den 14. marts 2025.** 
 
 ### **Feedback**: 
 Du får mundtlig feedback fra din lærer i en 1-til-1 session, hvor i gennemgår dit projekt.
