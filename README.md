@@ -40,7 +40,11 @@ For at bruge data fra The Movie Database skal du have en api-nøgle som skal sen
 En forespørgsel (fetch) til databasen kunne fx. se sådan ud:
 
 ```js
-fetch("https://api.themoviedb.org/3/trending/movie/week?api_key=c56b07231159979f222a2baafd615777")
+fetch("https://api.themoviedb.org/3/trending/movie/week", {
+  headers: {
+    accept: 'application/json',
+    Authorization: 'Bearer //indsæt din token her...'
+  }
 // Det henter alle film som trender i denne uge.
 ```
 
