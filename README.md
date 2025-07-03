@@ -1,6 +1,6 @@
-**Dynamisk web**
+**DYNAMISK WEB**
 
-# Web applikation - MyMovie
+# MyMovies
 
 Du skal i praktisk web perioden lave applikationene my movie. Data skal hentes fra "The Movie Database".
 
