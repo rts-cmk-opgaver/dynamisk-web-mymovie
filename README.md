@@ -36,7 +36,7 @@ Tilføj fx. en mulighed for at afspille traileren til en film (hvis den findes i
 
 ### **The Movie Database - introduktion**
 
-For at bruge data fra The Movie Database skal du have en api-nøgle som skal sendes med alle requests til databasen. Det skal du gøre med et url-parameter, så det ved du godt hvordan fungerer.
+For at bruge data fra The Movie Database skal du have et accesstoken som skal sendes med alle requests til databasen. Det skal du gøre med en authorization header, så det ved du godt hvordan fungerer.
 En forespørgsel (fetch) til databasen kunne fx. se sådan ud:
 
 ```js
@@ -48,7 +48,7 @@ fetch("https://api.themoviedb.org/3/trending/movie/week", {
 // Det henter alle film som trender i denne uge.
 ```
 
-Du får en api nøgle ved at registrere en bruger. Det er gratis, men du skal oplyse en del ting for at få nøglen. Hvis du ikke er vild med at oplyse din egen adresse kan du jo oplyse en fiktiv adresse i nærheden af hvor du bor, eller i nærheden af skolen. Brug dog din skole email, da du skal verificere din bruger for at få nøglen.
+Du får en accesstoken ved at registrere en bruger. Det er gratis, men du skal oplyse en del ting for at få nøglen. Hvis du ikke er vild med at oplyse din egen adresse kan du jo oplyse en fiktiv adresse i nærheden af hvor du bor, eller i nærheden af skolen. Brug dog din skole email, da du skal verificere din bruger for at få nøglen.
 
 Du kan læse mere om oprettelse, og oprette dig som bruger her:
 ```
