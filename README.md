@@ -2,7 +2,7 @@
 
 # MyMovies
 
-Du skal i praktisk web perioden lave applikationene my movie. Data skal hentes fra "The Movie Database".
+Du skal fremstille web-applikationen MyMovies. Data skal hentes fra "The Movie Database".
 
 ### **Mål**
 Målet med opgaven er at vise hvad du har lært i skoleperioden om listevisning og detaljevisning ved brug af url-parametre(query-strings). Det forventes, at den afleverede opgave fremstår som et "færdigt produkt".
