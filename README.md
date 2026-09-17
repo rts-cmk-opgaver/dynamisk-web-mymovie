@@ -19,13 +19,13 @@ Der skal implementeres darkmode. Switch-knappen i øverste højre hjørne skal s
 
 
 ### **Aflevering**: 
-Du afleverer ved at lave et **pull-request** hvor du sætter din lærer på som *reviewer*. Vent med at lave et pull-request, til du er færdig med opgaven. 
+Du skal aflevere et link til dit GitHub repository på MitRTS.  
 
 ### **Deadline**: 
-Opgaven skal afleveres **senest fredag den 19. september 2025.** 
+Du kan se hvornår opgaven skal afleveres på MitRTS.  
 
 ### **Feedback**: 
-Du får mundtlig feedback fra din lærer i en 1-til-1 session, hvor i gennemgår dit projekt.
+Du får en karakter på 7-trins-skalaen for dit projekt. Karakteren repræsenterer dit standpunkt i forhold til læringsmålene for skoleperioden **"Dynamisk Web"**.
 
 ### **Ekstraopgaver**
 Hvis du bliver hurgigt færdig, må du gerne fx. tilføje ekstra views eller features. Gå på opdagelse i api'et og prøv at se om du kan finde nogle interessante data at præsentere.
