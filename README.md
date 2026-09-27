@@ -20,6 +20,14 @@ Der udleveres en figma fil til opgaven, som dit produkt skal ligne.
 
 I listevisning fetches der som minimum fra to forskellie endpoints, som dermed resulterer i to forskellige visninger. En med horisontalt scroll og en som "bare" fortsætter ned ad siden. 
 
+#### **Forslag til endpoints i listevisningen:**
+- [Now playing](https://developer.themoviedb.org/reference/movie-now-playing-list)
+- [Polpular](https://developer.themoviedb.org/reference/movie-popular-list)
+
+
+#### **Forslag til endpoint i detaljevisningen:**
+Detaljerne om en enkelt film kan hentes på [details-endpointet](https://developer.themoviedb.org/reference/movie-details).  
+Bemærk at `{movie-id}` til sidst i url'en skal udskiftes med id'et på den film du ønsker at vise detaljer om.
 
 ### **Aflevering**: 
 Du skal aflevere et link til dit GitHub repository på MitRTS.  
