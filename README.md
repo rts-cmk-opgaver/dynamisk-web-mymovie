@@ -21,7 +21,7 @@ Der udleveres en figma fil til opgaven, som dit produkt skal ligne.
 #### **Listevisning**
 I listevisning fetches der som minimum fra to forskellie endpoints, som dermed resulterer i to forskellige visninger. En med horisontalt scroll og en som "bare" fortsætter ned ad siden. 
 
-*Forslag til endpoints i listevisningen:  *
+__Forslag til endpoints i listevisningen:  __
 - [Now playing](https://developer.themoviedb.org/reference/movie-now-playing-list)
 - [Popular](https://developer.themoviedb.org/reference/movie-popular-list)
 
@@ -29,7 +29,7 @@ I listevisning fetches der som minimum fra to forskellie endpoints, som dermed r
 #### **Detaljevisning**
 Når en bruger klikker på en film i listevisningen, ledes brugeren videre til en side med detaljer om den enkelte film. 
 
-*Forslag til endpoint i detaljevisningen:  *
+__Forslag til endpoint i detaljevisningen:  __
 
 Detaljerne om en enkelt film kan hentes på [details-endpointet](https://developer.themoviedb.org/reference/movie-details).  
 Bemærk at `{movie-id}` til sidst i url'en skal udskiftes med id'et på den film du ønsker at vise detaljer om.
