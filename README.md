@@ -41,7 +41,7 @@ Du skal aflevere et link til dit GitHub repository på MitRTS.
 Du kan se hvornår opgaven skal afleveres på MitRTS.  
 
 ### **Feedback**: 
-Du får en karakter på 7-trins-skalaen for dit projekt. Karakteren repræsenterer dit standpunkt i forhold til læringsmålene for skoleperioden **"Dynamisk Web"**.
+Du får en karakter på 7-trins-skalaen for dit projekt. Målet for projektet er som tidligere nævnt at vise hvad du har lært i **Dynamisk web**, og derfor er karakteren også et udtryk for dit standpunkt i forhold til læringsmålene for skoleperioden.
 
 ### **Ekstraopgaver**
 
