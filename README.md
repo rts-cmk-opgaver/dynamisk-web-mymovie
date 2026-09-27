@@ -5,7 +5,12 @@
 Du skal fremstille web-applikationen MyMovies. Data skal hentes fra "The Movie Database".
 
 ### **Mål**
-Målet med opgaven er at vise hvad du har lært i skoleperioden om listevisning og detaljevisning ved brug af url-parametre(query-strings). Det forventes, at den afleverede opgave fremstår som et "færdigt produkt".
+Målet med opgaven er at vise hvad du har lært i skoleperioden om:
+- at hente data fra en ekstern kilde med fetch-api'et
+- udskrive data fra det hentede objekt som html
+- listevisning og detaljevisning ved brug af url-parametre(query-strings).
+
+Det forventes, at den afleverede opgave fremstår som et "færdigt produkt".
 
 
 ### **Materialer**
@@ -14,8 +19,6 @@ Der udleveres en figma fil til opgaven, som dit produkt skal ligne.
 ### **Opgaven**
 
 I listevisning fetches der som minimum fra to forskellie endpoints, som dermed resulterer i to forskellige visninger. En med horisontalt scroll og en som "bare" fortsætter ned ad siden. 
-
-Der skal implementeres darkmode. Switch-knappen i øverste højre hjørne skal skifte imellem dark-mode og light-mode. Applikationen skal huske mit foretrukne farvevalg (fx i localStorage), så brugeren præsenteres for samme oplevelse næste gang applikationen bruges.
 
 
 ### **Aflevering**: 
@@ -28,9 +31,11 @@ Du kan se hvornår opgaven skal afleveres på MitRTS.
 Du får en karakter på 7-trins-skalaen for dit projekt. Karakteren repræsenterer dit standpunkt i forhold til læringsmålene for skoleperioden **"Dynamisk Web"**.
 
 ### **Ekstraopgaver**
-Hvis du bliver hurgigt færdig, må du gerne fx. tilføje ekstra views eller features. Gå på opdagelse i api'et og prøv at se om du kan finde nogle interessante data at præsentere.
 
-Tilføj fx. en mulighed for at afspille traileren til en film (hvis den findes i databasen).
+
+Hvis du bliver hurgigt færdig, kan du
+- implementere darkmode. Switch-knappen i øverste højre hjørne skal skifte imellem dark-mode og light-mode. Applikationen skal huske det foretrukne farvevalg (fx i localStorage), så brugeren præsenteres for samme oplevelse næste gang applikationen bruges.
+- tilføje ekstra views eller features. Gå på opdagelse i api'et og prøv at se om du kan finde nogle interessante data at præsentere.Tilføj fx. en mulighed for at afspille traileren til en film (hvis den findes i databasen).
 
 ---
 
