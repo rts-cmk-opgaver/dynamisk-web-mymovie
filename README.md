@@ -48,6 +48,7 @@ Du får en karakter på 7-trins-skalaen for dit projekt. Målet for projektet er
 
 Hvis du bliver hurgigt færdig, kan du
 
+- implementere infinite scroll på det lodrette scroll (popular)
 -  implementere darkmode. Switch-knappen i øverste højre hjørne skal skifte imellem dark-mode og light-mode. Applikationen skal huske det foretrukne farvevalg (fx i localStorage), så brugeren præsenteres for samme oplevelse næste gang applikationen bruges.
 - tilføje ekstra views eller features. Gå på opdagelse i api'et og prøv at se om du kan finde nogle interessante data at præsentere.Tilføj fx. en mulighed for at afspille traileren til en film (hvis den findes i databasen).
 
